@@ -9,3 +9,4 @@ This semester, I'm currently engaged in a research project with Prof Nwala, focu
 
 ## Homeworks
 [HW2](HW2.html)
+[HW3](HW3.html)
